@@ -1,4 +1,4 @@
-# Clouddatabase
+# Distributed Replicated Database
 
 We report our work developing a key-value database system. A scalable non-relational based application, as traditional databases can go through bottlenecks in various applications. We implemented a system capable of storing a unique key- value pair, including a major feature; External Configuration Service (ECS). Our system was developed over the course of four major milestones with a fifth milestone to add additional novel features which will be discussed within this paper.
 
